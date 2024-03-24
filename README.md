@@ -6,6 +6,13 @@ In this project I took on the role of an Information Security Analyst for Americ
 
 In response to this alert, my job was to research the zero-day vulnerability, then analyze our company's infrastructure list, and draft an email advisery to notify any affected teams.  In addition to informing affected teams, the email was to include a remediation program and assurances to prevent exploitations. 
 
-Although actions were take to prevent exploitation, unfortunately one of our company's servers hosting Log4j was exploited with a ransomware attempt.  Our Incident Detection and Response team was able to stop the ransomware process by cutting off the server's network connection, and immediately powering down the device.  Despite the IDR team's efforts, the encryption process had already started and was able to encrypt important files of the Product Development team, which were not backed up.  As a result, in order to recover the encrypted files, my job was to write a Python script that will brute-force the file and break the encryption. 
+Although actions were take to prevent exploitation, unfortunately one of our company's servers hosting Log4j was exploited with a ransomware attempt.  Our Incident Detection and Response team was able to stop the ransomware process by cutting off the server's network connection, and immediately powering down the device.  Despite the IDR team's efforts, the encryption process had already started and was able to encrypt important files of the Product Development team, which were not backed up.  As a result, in order to recover the encrypted files, my job was to write a Python script that will brute-force the file and break the encryption.
+
+# Vulnerability Research
+![Advisary](https://github.com/denika01/Ransomware-Simulation/assets/152938905/a3faa799-d76d-4799-9775-f766a431616e)
+
+# Email Advisery
+
+# Breaking the Ransomware Enryption
 
 # Conclusion
