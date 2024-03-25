@@ -34,3 +34,8 @@ Below is the Python script that I created for the brute-force:
 In the end I was glad to report that after running my brute-force script on the encrypted file, we were able to break the encryption and recover the company files!!
 
 # Conclusion
+I really enjoyed carrying out this project, taking on the role as an Information Security Analyst.  Through this project I was able to practice some of my existing skills,  and I also developed some new skills. Specifically the skills that I practiced and developed were:
+
+ * Researching and reviewing CISA publications on known vulnerabilities
+ * Reporting vulnerabilities by drafting clear and concise emails to guide teams on vulnerability awareness and remediation
+ * Utilizing Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys
