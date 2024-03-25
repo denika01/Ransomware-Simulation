@@ -11,16 +11,18 @@ Although actions were take to prevent exploitation, unfortunately one of our com
 # Vulnerability Research
 ![Advisary](https://github.com/denika01/Ransomware-Simulation/assets/152938905/a3faa799-d76d-4799-9775-f766a431616e)
 
-After learning about the Apache Log4j zero-day vulnerability through two publications that CISA released, I then investigated our company's infrastructure to find what devices had the Log4j software installed.  In my investigation I did find that one team did have infrastructure that may have been affected by the vulnerability.  Now having found that there is infrastructure that may have I been affected, my next steps were to contact the team that has ownership of that infrastructure to advise them on steps that needed to be taken in order to protect against that vulnerability.
+After learning about the Apache Log4j zero-day vulnerability through two publications that CISA released, I then investigated our company's infrastructure to find what devices had the Log4j software installed.  In my investigation I did find that one team did have infrastructure that may have been affected by the vulnerability.  Now having found that there is infrastructure that may have I been affected, my next steps were to contact the team that had ownership of that infrastructure to advise them on steps that needed to be taken in order to protect against that vulnerability.
 
 # Email Advisery
 
-To address the vulnerability I drafted an email advisory to alert the infrastructure owner of the seriousness of the vulnerability, implicating the risks/impact that the vulnerability poses if exploited and steps on how to remediate it.
+The email advisory that I drafted was sent to the infrastructure owner.  It implicated the seriousness of the vulnerability, the risks/impact that the vulnerability posed if exploited, and steps on how to remediate it.
+
 Below is the template that I used to draft the email advisery:
 
 ![Email_Template](https://github.com/denika01/Ransomware-Simulation/assets/152938905/dd762097-1ceb-44ad-9d65-728b0ab91671)
 
 # Breaking the Ransomware Enryption
+![ransomware_attack](https://github.com/denika01/Ransomware-Simulation/assets/152938905/ce641c3c-9608-4d12-a394-81237df48439)
 
 
 
