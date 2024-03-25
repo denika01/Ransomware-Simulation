@@ -24,6 +24,13 @@ Below is the template that I used to draft the email advisery:
 # Breaking the Ransomware Enryption
 ![ransomware_attack](https://github.com/denika01/Ransomware-Simulation/assets/152938905/ce641c3c-9608-4d12-a394-81237df48439)
 
+Despite the efforts that the IDR team made to stop the ransomware from spreading, it was able to encrypt some important company files that were not backed up.  When dealing with a threat actor, especially in the case of ransomware, there are no guarantees that they will provide a decryption key, that they won't re-encrypt your files, or that they won't come back to attack again and demand more money.  For these reasons our company does not want to pay the ransom.
 
+In order to recover the encrypted files I was tasked with brute-forcing the password to break the encryption.
+
+Below is the Python script that I created for the brute-force: 
+![bf_script](https://github.com/denika01/Ransomware-Simulation/assets/152938905/2f2c818b-c5b6-4d19-9c7c-0ec21145aaf1)
+
+In the end I was glad to report that after running my brute-force script on the encrypted file, we were able to break the encryption and recover the company files!!
 
 # Conclusion
